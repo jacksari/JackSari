@@ -1,13 +1,14 @@
 # Bienvenidos a mi Repositorio 👋
 
 ## Acerca de mi 🚀
-* Soy frontend developer, actualmente me encuentro trabajando en @HenriBarrett.
-* Tengo experiencia con tecnologías como React, Angular, WordPress, Firebase...
-* Actualmente estoy aprendiendo Python y a la vez organizandome mejor con Notion.
-* Me encantan los retos, actualmente realizando voluntariado como frontend developer en @Data Science Research Peru .
+* Soy frontend developer, actualmente soy freelancer.
+* Tengo experiencia con tecnologías como React, Vue, WordPress, Firebase...
+* Actualmente estoy mejorando mis habilidades en CSS para mejorar mis diseños.
+* Támbien aprendo Notion para organizarme de la mejor manera.
+* Me encantan los retos y aprender las nuevas tecnologías.
 ## Aficiones ⚡
-* Me encanta cantar.
-* Jugar Fútbol.
+* Me encanta mirar animes.
+* Me divierte los juegos de estrategia.
 * Me gusta aprender algo nuevo cada día.
 ## Contáctame 📫
 
