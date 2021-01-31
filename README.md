@@ -18,4 +18,4 @@
 * [Facebook](https://www.facebook.com/jack.sari.37/)
 * janasarii@gmail.com
 -----------------------------------------
-⌨️ con ❤️ por JackSari 😊
+⌨️ con ❤️ por JackSari 👋
