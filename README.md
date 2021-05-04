@@ -4,11 +4,10 @@
 * CTO en dened.org, startup enfocada en cambiar la forma de como aprender ciencias de la salud.
 * Soy frontend developer, aunque a veces entro a backend para enterarme de lo nuevo.
 * Tengo experiencia con tecnologías JavaScript como React usando NextJs, Gatsby.
-* Me gusta usas SASS para todo lo que CSS, siempre uso KOALA para crear mis plantillas de manera rápida.
+* Me gusta usas SASS para todo lo que CSS.
 * Támbien estoy aprendiendo Notion para organizarme de la mejor manera.
 * Me encanta participar en proyectos, mayormente en temas educativos.
 * Me encantan los retos y aprender las nuevas tecnologías.
-* Me gusta tener opiniones y diferentes puntos de vista antes de hacer algo.
 ## Aficiones ⚡
 * Me encanta mirar animes.
 * Me divierte los juegos de estrategia.
