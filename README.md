@@ -1,8 +1,8 @@
-# Bienvenidos a mi Repositorio 👋
+# Bienvenidos a mi Repo 👋
 
 ## Acerca de mi 🚀
-* CTO en dened.org, startup enfocada en cambiar la forma de como aprender ciencias de la salud.
-* Soy frontend developer, aunque a veces entro a backend para enterarme de lo nuevo.
+* Frontend developer y CTO en dened.org, startup enfocada en cambiar la forma de como aprender ciencias de la salud.
+* Me gusta más el frontend pero a veces voy al backend para enterarme de lo nuevo que hay.
 * Tengo experiencia con tecnologías JavaScript como React usando NextJs, Gatsby.
 * Me gusta usas SASS para todo lo que CSS.
 * Támbien estoy aprendiendo Notion para organizarme de la mejor manera.
@@ -34,11 +34,12 @@
 
 
 ## Contáctame 📫
+<br/>
 
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCUH2MeUHk0Vg7LGGz2v_Q5w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/sari_jack" target="_blank"><img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatojacksari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jacksari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -46,4 +47,4 @@
 </div>
 
 -----------------------------------------
-⌨️ con ❤️ por JackSari 👋
+⌨️ con ❤️ por [JackSari](https://www.jacksari.com/) 👋
