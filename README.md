@@ -1,8 +1,8 @@
 # Bienvenidos a mi Repo 👋
 
 ## Acerca de mi 🚀
-* Frontend developer y CTO en dened.org, startup enfocada en cambiar la forma de como aprender ciencias de la salud.
-* Me gusta más el frontend pero a veces voy al backend para enterarme de lo nuevo que hay.
+* Frontend developer.
+* Me gusta más el frontend pero a veces le voy al backend para enterarme de lo nuevo que hay.
 * Tengo experiencia con tecnologías JavaScript como React usando NextJs, Gatsby.
 * Me gusta usas SASS para todo lo que CSS.
 * Támbien estoy aprendiendo Notion para organizarme de la mejor manera.
