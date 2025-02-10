@@ -48,9 +48,9 @@ Con experiencia en **frontend y backend**, me especializo en el desarrollo de ap
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Gatsby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg">
+  <!-- <img align="center" alt="Gatsby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"> -->
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="NestJS" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg">
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
