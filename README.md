@@ -25,13 +25,7 @@ Con experiencia en **frontend y backend**, me especializo en el desarrollo de ap
 ## 🌱 En constante aprendizaje  
 📌 Actualmente explorando **desarrollo móvil** y nuevas tecnologías para ampliar mis habilidades.  
 
-## 🚀 ¿Buscas colaboración o tienes un proyecto en mente?  
-Estoy abierto a **nuevas oportunidades y colaboraciones** en proyectos desafiantes. ¡No dudes en contactarme!  
-
-
 ---
-
-## 👨‍💻 Hola, soy Jack Sari, Full Stack Developer!
 
 <div align="center">
   <a href="https://github.com/jacksari">
@@ -67,7 +61,10 @@ Estoy abierto a **nuevas oportunidades y colaboraciones** en proyectos desafiant
 
 ---
 
-## 📫 Contáctame  
+## 🚀 ¿Buscas colaboración o tienes un proyecto en mente?  
+Estoy abierto a **nuevas oportunidades y colaboraciones** en proyectos desafiantes. ¡No dudes en contactarme!  
+
+
 
 <div> 
   <a href="https://www.youtube.com/channel/UCUH2MeUHk0Vg7LGGz2v_Q5w" target="_blank">
