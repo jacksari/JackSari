@@ -1,13 +1,33 @@
-# 👋 ¡Bienvenidos a mi Repo!
+# 👋 ¡Hola, soy Jack Sari!  
 
-## 🚀 Acerca de mí  
-- 💻 **Full Stack Developer** con pasión por el **frontend**.  
-- 🔍 Aunque prefiero el frontend, también exploro el backend para estar al día con lo nuevo.  
-- ⚡ Tengo experiencia con tecnologías **JavaScript** como **React, Next.js y Gatsby**.  
-- 🎨 Me encanta usar **SASS** para todo lo relacionado con **CSS**.  
-- 📝 Estoy aprendiendo **Notion** para organizarme mejor.  
-- 🎓 Me encanta participar en proyectos, especialmente en temas educativos.  
-- 🚀 Siempre en busca de nuevos **retos y aprendizaje** de tecnologías emergentes.  
+🚀 **Full Stack Developer** apasionado por crear experiencias de usuario excepcionales y diseñar interfaces innovadoras.  
+Con experiencia en **frontend y backend**, me especializo en el desarrollo de aplicaciones escalables y optimizadas.  
+
+## 💻 Stack Tecnológico  
+🛠 **Lenguajes y Frameworks:**  
+- JavaScript, TypeScript, PHP  
+- React, Vue, Next.js, Gatsby, NestJS, Laravel  
+- Node.js, Express.js  
+
+📊 **Bases de Datos & Backend:**  
+- MySQL, MongoDB, PostgreSQL  
+- API REST, GraphQL  
+
+☁️ **Cloud & DevOps:**  
+- AWS (EC2, S3, RDS), Firebase  
+- Docker, GitHub Actions  
+
+## 🎯 Experiencia  
+🔹 He trabajado en **plataformas SaaS, ERP y proyectos educativos**, optimizando sistemas y desplegando aplicaciones en la nube.  
+🔹 Desarrollo de **chatbots con IA** e integración de sistemas de pago como **PayPal y MercadoPago**.  
+🔹 Experiencia en diseño de **arquitecturas escalables** y rendimiento optimizado.  
+
+## 🌱 En constante aprendizaje  
+📌 Actualmente explorando **desarrollo móvil** y nuevas tecnologías para ampliar mis habilidades.  
+
+## 🚀 ¿Buscas colaboración o tienes un proyecto en mente?  
+Estoy abierto a **nuevas oportunidades y colaboraciones** en proyectos desafiantes. ¡No dudes en contactarme!  
+
 
 ---
 
