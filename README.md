@@ -59,7 +59,7 @@ Con experiencia en **frontend y backend**, me especializo en el desarrollo de ap
   <img align="center" alt="TailwindCSS" height="40" width="40" src="https://image.pngaaa.com/779/6447779-middle.png">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="AWS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
+  <img align="center" alt="AWS" height="40" width="40" src="https://www.svgrepo.com/show/353443/aws.svg">
   
 </div>
 
