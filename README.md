@@ -5,9 +5,10 @@ Con experiencia en **frontend y backend**, me especializo en el desarrollo de ap
 
 ## 💻 Stack Tecnológico  
 🛠 **Lenguajes y Frameworks:**  
-- JavaScript, TypeScript, PHP  
-- React, Vue, Next.js, Gatsby, NestJS, Laravel  
+- JavaScript, TypeScript, PHP, Python 
+- React, Vue, Nuxt.js Next.js, Gatsby, NestJS, Laravel  
 - Node.js, Express.js  
+- Bootstrap, TailwindCSS, Vuetify, Chakra UI, SCSS
 
 📊 **Bases de Datos & Backend:**  
 - MySQL, MongoDB, PostgreSQL  
@@ -23,7 +24,10 @@ Con experiencia en **frontend y backend**, me especializo en el desarrollo de ap
 🔹 Experiencia en diseño de **arquitecturas escalables** y rendimiento optimizado.  
 
 ## 🌱 En constante aprendizaje  
-📌 Actualmente explorando **desarrollo móvil** y nuevas tecnologías para ampliar mis habilidades.  
+📌 Actualmente explorando:  
+- **Arquitecturas escalables** con **Angular**.  
+- Desarrollo **móvil** con **React Native**.  
+- Backend con **Python y Django** para nuevas soluciones.   
 
 ---
 
